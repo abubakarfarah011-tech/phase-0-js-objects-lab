@@ -1,8 +1,8 @@
 //Write your code here
-const attendee1 = {
-  attendeeID : "T001",
-  name :" Alice Smith",
-  event : " JavaScript Confrence",
+const attendee = {
+  attendeeId : "T001",
+  name :"Alice Smith",
+  event : "JavaScript Conference",
   ticketType : "VIP",
   ticketPrice : 150.00
 };
